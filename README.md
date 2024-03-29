@@ -15,14 +15,20 @@ https://www.figma.com/file/CkydjPvtYKKjSO9HtlRJEb/Provis?type=design&node-id=25-
 
 ## Halaman Aplikasi
 
-Splash Screen
+### Splash Screen
+
 ![alt text](image.png)
+
 Halaman pembuka yang menampilkan nama aplikasi "DigiSehat" dengan latar belakang motif medis, memberikan kesan pertama yang profesional dan fokus pada kesehatan.
 
-Login Page
+### Login Page
+
 ![alt text](image-1.png)
+
 Halaman login menyediakan formulir untuk masuk atau mendaftar. Didesain dengan intuitif untuk memastikan pengalaman pengguna yang lancar.
 
-Home Page
+### Home Page
+
 ![alt text](image-2.png)
+
 Setelah login, pengguna diarahkan ke halaman utama yang berisi navigasi cepat ke fitur utama aplikasi seperti pencarian dokter, rumah sakit, pemesanan kamar, dan toko kesehatan.
