@@ -31,4 +31,4 @@ Halaman login menyediakan formulir untuk masuk atau mendaftar. Didesain dengan i
 
 ![alt text](image-2.png)
 
-Setelah login, pengguna diarahkan ke halaman utama yang berisi navigasi cepat ke fitur utama aplikasi seperti pencarian dokter, rumah sakit, pemesanan kamar, dan toko kesehatan.
+Setelah login, pengguna diarahkan ke halaman utama yang berisi navigasi cepat ke fitur utama aplikasi seperti pencarian dokter, rumah sakit, pemesanan kamar, toko kesehatan, dsb.
